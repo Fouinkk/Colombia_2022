@@ -1,0 +1,116 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+.parent {
+    background-image: url(./Assets/landscape-guaitarilla-region-department-of-narino-republic-of-colombia-eric-bauer\ 1.png);
+    background-repeat: no-repeat;
+    width: 390px;
+    height: 844px;
+    padding: 10 10 10 10;
+    position: relative;
+}
+
+.child {
+    position: absolute;
+    top: 60;
+    left: 30;
+    bottom: 0;
+    right: 243px;
+  }
+
+.child-2 {
+    position: relative;
+    top: 50px;
+    right: 30px;
+    left: 243px;
+    bottom: 0;
+  }
+
+button {
+    font-family: 'inter';
+    font-style: 'meidum';
+    font-weight: 400;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-right: 16px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.child-3 {
+    position: relative;
+    width: 357px;
+    height: 184px;
+    padding: 0 auto;
+    top: 212;
+    left: 8;
+  }
+
+.child-4 {
+    position: relative;
+    color: white;
+    top: 250;
+    left: 10;
+  }
+
+h2 {
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+h3 {
+    width: 340px;
+    display: block;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+p {
+    color: #FFCD01;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.btn {
+    position: relative;
+    width: 200px;
+    height: 40px;
+    top: 280;
+    left: 70;
+    border-radius: 8px;
+    background-color: black;
+    border: #FFCD01 solid 2px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+p.btn-text {
+    margin: 0;
+    padding-top: 10;
+    color: white;
+    font-family: 'inter';
+    font-style: normal;
+    font-size: 24px;
+    text-align: center;
+}
+
+
+.child-6 {
+    position: relative;
+    top: 300;
+    left: 105;
+}
+
